@@ -63,4 +63,4 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * (ACCV2018)
 
 18. RAM: A Region-Aware Deep Model for Vehicle Re-Identification
-    * https://github.com/liu-xb/RAM (ICME2018)
+    * [[paper]](https://arxiv.org/pdf/1806.09283.pdf) [[code]](https://github.com/liu-xb/RAM) (ICME2018)
