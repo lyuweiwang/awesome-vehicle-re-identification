@@ -54,8 +54,8 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * Antonio Marin-Reyes P, Palazzi A, Bergamini L, et al. Unsupervised Vehicle Re-Identification Using Triplet Networks[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018: 166-171. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)
     
 15. Vehicle Re-Identification with the Space-Time Prior
-    * Wu C W, Liu C T, Chiang C E, et al. Vehicle re-identification with the space-time prior[C]//CVPR Workshop (CVPRW) on the AI City Challenge. 2018. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)
-    
+    * Wu C W, Liu C T, Chiang C E, et al. Vehicle re-identification with the space-time prior[C]//CVPR Workshop (CVPRW) on the AI City Challenge. 2018. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)[[code]](https://github.com/cw1204772/AIC2018_iamai)mAP: 
+    53.35; R1: 82.06%.
 16. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification
     * Zhou, Y., & Shao, L. (2018). Aware Attentive Multi-View Inference for Vehicle Re-Identification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 6489-6498).[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
     
