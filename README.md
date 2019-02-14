@@ -61,3 +61,6 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     
 17. Coarse-to-fine: A RNN-based hierarchical attention model for vehicle re-identification. 
     * (ACCV2018)
+
+18. RAM: A Region-Aware Deep Model for Vehicle Re-Identification
+    * https://github.com/liu-xb/RAM (ICME2018)
