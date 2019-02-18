@@ -63,7 +63,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * [[paper]](https://arxiv.org/abs/1812.04239)[[code]](https://github.com/tzzcl/RNN-HA)VeRi: mAP:56.80; R1: 74.79%; VehicleID: test800: R1: 83.8%.(ACCV2018)
 
 18. RAM: A Region-Aware Deep Model for Vehicle Re-Identification
-    * [[paper]](https://arxiv.org/pdf/1806.09283.pdf) [[code]](https://github.com/liu-xb/RAM) (ICME2018)
+    * [[paper]](https://arxiv.org/pdf/1806.09283.pdf) [[code]](https://github.com/liu-xb/RAM) (ICME2018)VeRi: mAP: 0.615, R1: 0.886; VehicleID: testsmall: 0.752.
     
 
 
