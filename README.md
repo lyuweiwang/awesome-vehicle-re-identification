@@ -10,6 +10,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 * CompCars[[Project]](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/index.html) [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Yang_A_Large-Scale_Car_2015_CVPR_paper.pdf)
 
 ## paper
+### 2017 & before
 1. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-Identification
     * Wang Z, Tang L, Liu X, et al. Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017: 379-387.
 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Wang_Orientation_Invariant_Feature_ICCV_2017_paper.pdf)
@@ -32,6 +33,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 7. Large-Scale Vehicle Re-Identification in Urban Surveillance Videos
     * Liu X, Liu W, Ma H, et al. Large-scale vehicle re-identification in urban surveillance videos[C]//Multimedia and Expo (ICME), 2016 IEEE International Conference on. IEEE, 2016: 1-6.[[paper]](https://ieeexplore.ieee.org/document/7553002/)
 
+### 2018
 8. PROVID- Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance
     * Liu X, Liu W, Mei T, et al. PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance[J]. IEEE Transactions on Multimedia, 2018, 20(3): 645-658.[[paper]](https://ieeexplore.ieee.org/abstract/document/8036238/)
 
@@ -54,7 +56,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * Antonio Marin-Reyes P, Palazzi A, Bergamini L, et al. Unsupervised Vehicle Re-Identification Using Triplet Networks[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops. 2018: 166-171. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Marin-Reyes_Unsupervised_Vehicle_Re-Identification_CVPR_2018_paper.pdf)
     
 15. Vehicle Re-Identification with the Space-Time Prior
-    * Wu C W, Liu C T, Chiang C E, et al. Vehicle re-identification with the space-time prior[C]//CVPR Workshop (CVPRW) on the AI City Challenge. 2018. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)[[code]](https://github.com/cw1204772/AIC2018_iamai)mAP: 
+    * Wu C W, Liu C T, Chiang C E, et al. Vehicle re-identification with the space-time prior[C]//CVPR Workshop (CVPRW) on the AI City Challenge. 2018. [[paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Wu_Vehicle_Re-Identification_With_CVPR_2018_paper.pdf)[[code]](https://github.com/cw1204,772/AIC2018_iamai)mAP: 
     53.35; R1: 82.06%.
 16. Viewpoint-aware Attentive Multi-view Inference for Vehicle Re-identification
     * Zhou, Y., & Shao, L. (2018). Aware Attentive Multi-View Inference for Vehicle Re-Identification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 6489-6498).[[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Viewpoint-Aware_Attentive_Multi-View_CVPR_2018_paper.pdf)
@@ -65,6 +67,10 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
 18. RAM: A Region-Aware Deep Model for Vehicle Re-Identification
     * [[paper]](https://arxiv.org/pdf/1806.09283.pdf) [[code]](https://github.com/liu-xb/RAM) (ICME2018)VeRi: mAP: 0.615, R1: 0.886; VehicleID: testsmall: 0.752.
     
-
-
+### 2019
+19. Attributes Guided Feature Learning for Vehicle Re-identification
+    * [[paper]](https://arxiv.org/pdf/1905.08997.pdf) [[code]](https://github.com/xmlin1995/CVTC) GAN for data genneration. Ensemble of color, class, direction. No use.
+20. A unified neural network for object detection, multiple object tracking and vehicle re-identification
+    * [[paper]](https://arxiv.org/pdf/1907.03465.pdf) Concat two neighbor frame or camera. Use tripple loss to find similar vihecles in this concated image. However, it is no use for continuous frames.
+    
 [[Website contains many new Re-Id papers]](https://amds123.github.io/rid/)
