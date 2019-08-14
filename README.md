@@ -38,7 +38,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * Liu X, Liu W, Mei T, et al. PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance[J]. IEEE Transactions on Multimedia, 2018, 20(3): 645-658.[[paper]](https://ieeexplore.ieee.org/abstract/document/8036238/)
 
 9. Group Sensitive Triplet Embedding for Vehicle Re-identification
-    * Bai Y, Lou Y, Gao F, et al. Group Sensitive Triplet Embedding for Vehicle Re-identification[J]. IEEE Transactions on Multimedia, 2018.[[paper]](https://ieeexplore.ieee.org/abstract/document/8265213/)
+    * Bai Y, Lou Y, Gao F, et al. Group Sensitive Triplet Embedding for Vehicle Re-identification[J]. IEEE Transactions on Multimedia, 2018.[[paper]](https://ieeexplore.ieee.org/abstract/document/8265213/) VERI766: MAP 59.47 HIT1: 96.24 HIT5: 98.97; COMPCARS: MAP: =0.402 1: 0.769; VEHICLEID: small: 0.754, medium: 0.743, large: 0.724. Group with K-Means to handle intra-class variance. Useful!!!
 
 10. Improving triplet-wise training of convolutional neural network for vehicle re-identification
     * Zhang Y, Liu D, Zha Z J. Improving triplet-wise training of convolutional neural network for vehicle re-identification[C]//Multimedia and Expo (ICME), 2017 IEEE International Conference on. IEEE, 2017: 1386-1391.[[paper]](https://ieeexplore.ieee.org/abstract/document/8019491/)
@@ -72,5 +72,7 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * [[paper]](https://arxiv.org/pdf/1905.08997.pdf) [[code]](https://github.com/xmlin1995/CVTC) GAN for data genneration. Ensemble of color, class, direction. No use.
 20. A unified neural network for object detection, multiple object tracking and vehicle re-identification
     * [[paper]](https://arxiv.org/pdf/1907.03465.pdf) Concat two neighbor frame or camera. Use tripple loss to find similar vihecles in this concated image. However, it is no use for continuous frames.
+21.  A survey of advances in vision-based vehicle re-identification
+    * [[paper]](https://arxiv.org/pdf/1905.13258.pdf) Gste > vstm = nufact = oim 
     
 [[Website contains many new Re-Id papers]](https://amds123.github.io/rid/)
