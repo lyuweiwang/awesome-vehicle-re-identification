@@ -72,7 +72,10 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * [[paper]](https://arxiv.org/pdf/1905.08997.pdf) [[code]](https://github.com/xmlin1995/CVTC) GAN for data genneration. Ensemble of color, class, direction. No use.
 20. A unified neural network for object detection, multiple object tracking and vehicle re-identification
     * [[paper]](https://arxiv.org/pdf/1907.03465.pdf) Concat two neighbor frame or camera. Use tripple loss to find similar vihecles in this concated image. However, it is no use for continuous frames.
-21.  A survey of advances in vision-based vehicle re-identification
+21. A survey of advances in vision-based vehicle re-identification
     * [[paper]](https://arxiv.org/pdf/1905.13258.pdf) Gste > vstm = nufact = oim 
+22. A Dual-Path Model With Adaptive Attention For Vehicle Re-Identification
+    * [[paper]](https://arxiv.org/pdf/1905.03397.pdf) [[code]](https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation) Use key point to help Re-id. This code only has key point part. VeRi-776: mAP: 66.35, t1: 90.17, t94.34
+    * [[paper]](https://arxiv.org/pdf/1905.03397.pdf) [[code]](https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation) Use key point to help Re-id. This code only has key point part. VeRi-776: mAP: 66.35, t1: 90.17, t5: 94.34; VehicleID: small: t1: 74.69, t2: 93.82, medium t1: 68.62, t2: 89.95; large: t1: 63.54, t5: 85.64;
     
 [[Website contains many new Re-Id papers]](https://amds123.github.io/rid/)
