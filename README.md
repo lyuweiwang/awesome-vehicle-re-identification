@@ -76,5 +76,6 @@ collection of dataset&amp;paper&amp;code on Vehicle Re-Identification
     * [[paper]](https://arxiv.org/pdf/1905.13258.pdf) Gste > vstm = nufact = oim 
 22. A Dual-Path Model With Adaptive Attention For Vehicle Re-Identification
     * [[paper]](https://arxiv.org/pdf/1905.03397.pdf) [[code]](https://github.com/Pirazh/Vehicle_Key_Point_Orientation_Estimation) Use key point to help Re-id. This code only has key point part. VeRi-776: mAP: 66.35, t1: 90.17, t5: 94.34; VehicleID: small: t1: 74.69, t2: 93.82, medium t1: 68.62, t2: 89.95; large: t1: 63.54, t5: 85.64;
-    
+23. Variational Representation Learning for Vehicle Re-Identification
+    * [[paper]](https://arxiv.org/pdf/1905.02343.pdf) No code. Result is not good. Veri: mAP: 59.18, t1: 88.08, t5 94.63; VehicleID: small: t1: 73.37, t5: 85.52.
 [[Website contains many new Re-Id papers]](https://amds123.github.io/rid/)
